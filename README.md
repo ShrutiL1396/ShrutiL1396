@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutil1396&label=Profile%20views&color=0e75b6&style=flat" alt="shrutil1396" /> </p>
 
-🤝 I’m looking for help with **seeking roles that cultivates my passion and helps me grow**
+🤝 I’m looking for help with **seeking roles that cultivates my passion and help me grow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,20 +15,23 @@
 <h4> Programming skills </h4>
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/rstudio.jpg" width="40" height="40"/>
+<img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/PySpark-logo-1.jpeg" width="90" height="40"/>
 
-<h4> AI/ML </h4>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+
+<h4> AI/ML </h4> 
+ <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src = "https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/pandas.png" width="130" height="35"/>  <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/stats.png" width="120" height="35"/>  <img src = "https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/numpy.png" width="130" height="35"/> <img src = "https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/prophet.png" width="100" height="35"/>   
+ </a>
 
 <h4> Databases </h4>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+ <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/microsoft-sql-server-logo.png" width="65" height="50"/>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 <h4> Data Visualization </h4>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/seaborn.png" width="80" height="40"/> <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/matplotlib.png" width="110" height="40"/> <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/tableau.png" width="60" height="40"/> <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/powerbi.png" width="110" height="40"/>  <img src="https://github.com/ShrutiL1396/Shruti_Lanke/blob/main/pltoly.png" width="60" height="40"/> 
+ </a> 
+ 
 <h4> Software </h4>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
